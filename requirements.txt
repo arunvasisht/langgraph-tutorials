@@ -2,3 +2,8 @@ langgraph
 langchain
 langchain-google-genai
 python-dotenv
+langchain-ollama
+ollama
+langsmith
+langchain_community_wikipedia
+tavily-python
